@@ -1,4 +1,4 @@
 # hello-world
-Ideas and tests
+Ideas, tests and trials
 
-Learning Github for the data scientist courses on coursera.org.
+Learning Github for the data scientist courses on coursera.org.  Learning Github.
